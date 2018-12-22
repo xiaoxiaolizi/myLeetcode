@@ -1,6 +1,6 @@
 # myLeetcode
 
-### 题目地址
+### subject address
 [leetcode](https://leetcode.com/)
 
 #### 1. Two Sum
